@@ -20,8 +20,8 @@ Then, I analysed the data with SQL queries and Excel.
 
 ### 3. Visualisations 
 To visualise the analysis results, I used Power BI to create two interative dashbaords - one comparing the recommended list against current partners, and the other against in-state competitors.
-![Dashboard 1](images/Dashboard_1.png)
-![Dashboard 2](images/Dashboard_2.png)
+![Dashboard 1](./images/Dashboard_1.png)
+![Dashboard 2](./images/Dashboard_2.png)
 
 ### 4. Business Case
 This document covers the project problem, findings, recommendations, and potential risks. It was sent to the stakeholder before the next stage.
