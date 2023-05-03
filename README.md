@@ -13,7 +13,7 @@ Two sources of data were used for this project, IPEDS https://nces.ed.gov/ipeds/
 This stage involved joining the relevant tables and datasets together, as well as some minor cleaning.
 
 ### 2. Analysis 
-The analysis was performed with both SQL queries and Excel.
+The analysis was performed with both SQL queries and Excel. The main query written for this project can be found here:
 [SQL Query](SQL_Query.pdf)
 
 ### 3. Visualisations 
@@ -22,9 +22,9 @@ To visualise the analysis results, I used Power BI to create two interative dash
 ![Dashboard 2](./images/Dashboard_2.PNG)
 
 ### 4. Business Case
-This document covers the project problem, findings, recommendations, and potential risks. It was sent to the stakeholder before the next stage.
+This document covers the project problem, findings, recommendations, and potential risks. It was sent to the stakeholder before the next stage. A link to it can be found here:
 [Business Case](Business_Case.pdf)
 
 ### 5. Presentation Slides
-This covered  a summary of the project, focusing on the the top 5 recommended institutions from the analysis, and was used to deliver a presentation to the stakeholder. 
+This covered  a summary of the project, focusing on the the top 5 recommended institutions from the analysis, and was used to deliver a presentation to the stakeholder. A link to it can be found here:
 [Slides](Slides.pdf)
