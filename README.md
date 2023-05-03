@@ -14,7 +14,7 @@ This stage involved joining the relevant tables and datasets together, as well a
 
 ### 2. Analysis 
 The analysis was performed with both SQL queries and Excel.
-![SQL Query](SQL_Query.pdf)
+[SQL Query](SQL_Query.pdf)
 
 ### 3. Visualisations 
 To visualise the analysis results, I used Power BI to create two interative dashbaords - one comparing the recommended list against current partners, and the other against in-state competitors.
@@ -23,8 +23,8 @@ To visualise the analysis results, I used Power BI to create two interative dash
 
 ### 4. Business Case
 This document covers the project problem, findings, recommendations, and potential risks. It was sent to the stakeholder before the next stage.
-![Business Case](Business_Case.pdf)
+[Business Case](Business_Case.pdf)
 
 ### 5. Presentation Slides
 This covered  a summary of the project, focusing on the the top 5 recommended institutions from the analysis, and was used to deliver a presentation to the stakeholder. 
-![Slides](Slides.pdf)
+[Slides](Slides.pdf)
