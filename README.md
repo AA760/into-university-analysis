@@ -12,11 +12,9 @@ Two sources of data were used for this project, IPEDS https://nces.ed.gov/ipeds/
 
 This stage involved joining the relevant tables and datasets together, as well as some minor cleaning.
 
-<-- Replacing non-integer values in quantitative columns
-<-- Casting all quantitative columns to integers, 
-
 ### 2. Analysis 
-Then, I analysed the data with SQL queries and Excel.
+The analysis was performed with both SQL queries and Excel.
+![SQL Query](SQL_Query.pdf)
 
 ### 3. Visualisations 
 To visualise the analysis results, I used Power BI to create two interative dashbaords - one comparing the recommended list against current partners, and the other against in-state competitors.
